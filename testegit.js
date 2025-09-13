@@ -1,1 +1,5 @@
 console.log('novo texto para testar o git')
+console.log('novo texto para testar o git')
+console.log('novo texto para testar o git')
+console.log('novo texto para testar o git')
+console.log('novo texto para testar o git')
